@@ -123,7 +123,7 @@ export default function App() {
           >
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-zinc-100 text-zinc-900 text-xs font-bold uppercase tracking-wider mb-6">
               <Navigation className="w-3 h-3" />
-              Работаем по всему городу 24/7
+              Работаем по всему городу Казахстана 24/7
             </div>
             <h1 className="text-5xl lg:text-7xl font-bold tracking-tight text-zinc-900 mb-6 leading-[1.1]">
               Ваш автомобиль — <br />
